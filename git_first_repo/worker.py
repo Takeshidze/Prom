@@ -1,3 +1,5 @@
+# https://github.com/Takeshidze/Prom
+# https://github.com/Takeshidze/Prom
 class Worker:
     def __init__(self, pay):
         self.payment_ph = pay
